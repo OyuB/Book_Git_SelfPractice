@@ -1,0 +1,3 @@
+testing
+smoke test
+regression test
